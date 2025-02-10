@@ -61,4 +61,4 @@ jobs:
           app-name: 'orderservice'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8EDE05470B04FB3A6143686EF0E7A4D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5DB2EF6F409E43799353BEF11B02BF93 }}
